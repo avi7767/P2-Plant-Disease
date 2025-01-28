@@ -1,1 +1,0 @@
-# P2-Plant-disease
